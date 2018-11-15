@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name                  = %q{default_value_for}
-  s.version               = "3.1.0"
+  s.name                  = %q{gitlab-default_value_for}
+  s.version               = "3.1.1"
   s.summary               = %q{Provides a way to specify default values for ActiveRecord models}
   s.description           = %q{The default_value_for plugin allows one to define default values for ActiveRecord models in a declarative manner}
   s.email                 = %q{software-signing@phusion.nl}
-  s.homepage              = %q{https://github.com/FooBarWidget/default_value_for}
+  s.homepage              = %q{https://github.com/gitlabhq/default_value_for}
   s.authors               = ["Hongli Lai"]
   s.license               = 'MIT'
   s.required_ruby_version = '>= 1.9.3'
